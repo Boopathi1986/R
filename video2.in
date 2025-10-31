@@ -1,7 +1,0 @@
-parm T1T1.top
-trajin T1T1md1-100ns.mdcrd 1 10000 50
-trajin T1T1md100-200ns.mdcrd 1 10000 50
-trajin T1T1md200-300ns.mdcrd 1 10000 50
-trajin T1T1md300-400ns.mdcrd 1 10000 50
-trajin T1T1md400-500ns.mdcrd 1 10000 50
-trajout videoab-gd-mem.mdcrd
