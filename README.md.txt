@@ -1,6 +1,8 @@
 ## Repository Structure
 
-Download and unzip the `github.zip` file. After extraction, you will find the following folders and files organized as shown below:
+To access the dataset, click on the “github.zip” file available in the repository and then select “View raw” (highlighted in blue). 
+The file will be downloaded automatically upon clicking.
+After downloading, unzip the github.zip file. Upon extraction, the following folders and files will be available and organized as shown below:
 
 github/
 ├── contactmap_inhouse_script/
@@ -39,4 +41,5 @@ github/
 ├── saltbridge_PC_PE_PS_SPM-Positivechargeres_Ab42tgDMEM.tcl
 ├── saltbridge_PC_PE_PS_SPM-Positivechargeres_Ab42t-MEM.tcl
 ├── saltbridge_PC_PE_PS_SPM-Positivechargeres_Ab42dgDMem.tcl
+
 └── saltbridge_PC_PE_PS_SPM-Positivechargeres_Ab42hgDMem.tcl
